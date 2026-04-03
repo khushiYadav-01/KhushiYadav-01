@@ -1,4 +1,4 @@
-# Khushi-Yadav
+
 <h1 align="center">Hey 👋, I'm khushi</h1>
 
 <h3 align="center">Full-Stack Developer | MERN Stack | Problem Solver 🚀</h3>
