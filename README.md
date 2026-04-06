@@ -61,7 +61,7 @@
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushiYadav01&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushiYadav-01&theme=tokyonight"/>
 </p>
 
 ---
