@@ -5,50 +5,78 @@
 
 ---
 
+<h1 align="center">Hey 👋, I'm Khushi</h1>
+
+<h3 align="center">AI & Machine Learning Enthusiast | Data Science Learner | Problem Solver 🚀</h3>
+
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=24&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;DSA+Learner;Building+Real+World+Projects">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=24&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Data+Science+Learner;Python+Developer;Building+AI+Powered+Projects;Exploring+Generative+AI+and+Automation">
 </p>
 
 ---
 
 ### 💫 About Me
-- 💻 I’m focused on **Full-Stack Development (MERN)**
-- 🌱 Currently learning **DSA + Backend Development**
-- 🚀 Passionate about building real-world projects
-- ⚡ I enjoy solving logical problems and writing clean code
+
+* 🤖 Passionate about **Artificial Intelligence & Machine Learning**
+* 📊 Exploring **Data Science, Data Analytics, and Predictive Modeling**
+* 🐍 Building projects using **Python, Pandas, NumPy, and Machine Learning**
+* 🚀 Interested in **Generative AI, AI Automation, and LLM Applications**
+* 🧩 Regularly solving **DSA and logical problem-solving challenges**
+* 🌱 Currently learning **Machine Learning, Deep Learning, and FastAPI**
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 👨‍💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk"/>
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c"/>
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus"/>
-</p>
+**Languages**
 
-#### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript"/>
-  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
-</p>
+* Python
+* SQL
+* Java
+* JavaScript
 
-#### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express"/>
-</p>
+**Data Science & ML**
 
-#### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
-</p>
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-Learn
+* TensorFlow (Learning)
+* Machine Learning
+
+**Databases**
+
+* MySQL
+* PostgreSQL
+
+**Tools & Technologies**
+
+* Git & GitHub
+* Jupyter Notebook
+* VS Code
+* Power BI
+* FastAPI
+* REST APIs
+
+---
+
+### 🎯 Current Focus
+
+* Machine Learning Projects
+* AI Automation
+* Generative AI Applications
+* Data Analytics & Visualization
+* DSA for Technical Interviews
+
+---
+
+### 📫 Connect With Me
+
+* LinkedIn: Your LinkedIn Profile
+* GitHub: Your GitHub Profile
+
 
 ---
 
