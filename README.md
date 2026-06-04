@@ -66,13 +66,7 @@
 
 ---
 
-### 📫 Connect With Me
 
-* LinkedIn: Your LinkedIn Profile
-* GitHub: Your GitHub Profile
-
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
