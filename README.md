@@ -1,5 +1,4 @@
-
-<h1 align="center">Hey 👋, I'm khushi</h1>
+<h1 align="center">Hey 👋, I'm Khushi</h1>
 
 <h3 align="center">AI & Machine Learning Enthusiast | Data Science Learner | Problem Solver 🚀</h3>
 
@@ -11,99 +10,92 @@
 
 ---
 
-### 💫 About Me
+## 💫 About Me
 
-* 🤖 Passionate about **Artificial Intelligence & Machine Learning**
-* 📊 Exploring **Data Science, Data Analytics, and Predictive Modeling**
-* 🐍 Building projects using **Python, Pandas, NumPy, and Machine Learning**
-* 🚀 Interested in **Generative AI, AI Automation, and LLM Applications**
-* 🧩 Regularly solving **DSA and logical problem-solving challenges**
-* 🌱 Currently learning **Machine Learning, Deep Learning, and FastAPI**
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-* Python
-* SQL
-* Java
-* JavaScript
-
-**Data Science & ML**
-
-* Pandas
-* NumPy
-* Matplotlib
-* Scikit-Learn
-* TensorFlow (Learning)
-* Machine Learning
-
-**Databases**
-
-* MySQL
-* PostgreSQL
-
-**Tools & Technologies**
-
-* Git & GitHub
-* Jupyter Notebook
-* VS Code
-* Power BI
-* FastAPI
-* REST APIs
+- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
+- 📊 Exploring **Data Science, Data Analytics, and Predictive Modeling**
+- 🐍 Building projects using **Python, Pandas, NumPy, and Machine Learning**
+- 🚀 Interested in **Generative AI, AI Automation, and LLM Applications**
+- 🧩 Regularly solving **DSA and Logical Problem-Solving Challenges**
+- 🌱 Currently learning **Machine Learning, Deep Learning, and FastAPI**
 
 ---
 
-### 🎯 Current Focus
+## 🛠️ Tech Stack
 
-* Machine Learning Projects
-* AI Automation
-* Generative AI Applications
-* Data Analytics & Visualization
-* DSA for Technical Interviews
+### 💻 Languages
+
+- Python
+- C
+- C++
+- Java
+- JavaScript
+- SQL
+
+### 🤖 Data Science & Machine Learning
+
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-Learn
+- Machine Learning
+- Deep Learning
+- TensorFlow (Learning)
+
+### 🗄️ Databases
+
+- MySQL
+- PostgreSQL
+
+### ⚙️ Tools & Technologies
+
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
+- Power BI
+- FastAPI
+- REST APIs
 
 ---
 
+## 🎯 Current Focus
 
+- Machine Learning Projects
+- AI Automation
+- Generative AI Applications
+- Data Analytics & Visualization
+- DSA for Technical Interviews
 
-### 📊 GitHub Stats
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KhushiYadav-01&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+## 🔥 GitHub Streak
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushiYadav-01&theme=tokyonight"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
+
 - 💼 LinkedIn: https://linkedin.com/in/Khushi-yadav-891481327
 - 📧 Email: Khushi.workdesk@email.com
 - 🌐 Portfolio: https://your-portfolio-link.com
 
 ---
 
-### ✨ Motto
-> “First, solve the problem. Then, write the code.”
+## ✨ Motto
 
+> **"First, solve the problem. Then, write the code."**
 
 <!--
-**khushiYadav-01/KhushiYadav-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**KhushiYadav-01/KhushiYadav-01** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
