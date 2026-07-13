@@ -88,7 +88,7 @@
 
 - 💼 LinkedIn: https://linkedin.com/in/Khushi-yadav-891481327
 - 📧 Email: Khushi.workdesk@email.com
-- 🌐 Portfolio: https://your-portfolio-link.com
+
 
 ---
 
