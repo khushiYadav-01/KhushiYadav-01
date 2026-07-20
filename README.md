@@ -87,7 +87,7 @@
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/Khushi-yadav-891481327
-- 📧 Email: Khushi.workdesk@email.com
+- 📧 Email: Khushi.workdesk@gmail.com
 
 
 ---
