@@ -40,7 +40,7 @@
 - Scikit-Learn
 - Machine Learning
 - Deep Learning
-- TensorFlow (Learning)
+  
 
 ### 🗄️ Databases
 
