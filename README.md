@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Khushi</h1>
 
-<h3 align="center">AI & Machine Learning Enthusiast | Data Science Learner | Problem Solver 🚀</h3>
+<h3 align="center"> AI & Machine Learning Enthusiast | Data Science Learner | Problem Solver 🚀</h3>
 
 ---
 
